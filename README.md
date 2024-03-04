@@ -1,1 +1,7 @@
 Langkah pertama buat file di folder autopsy seperti pada gambar di bawah ini ![Screenshot (1016)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/5d205cea-9fb3-4565-bb4c-23ea39e2f968)
+Buka aplikasi Autopsy dan kemudian pilih "New Case" ![Screenshot (1017)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/1d2e0f18-0f40-4d47-8cea-cbb8265f1cd4) 
+Beri nama case dan lokasi kita buat ![Screenshot (1018)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/f9e9110a-4401-43a9-9f16-df7bfc835472)
+Menentukan host name ![Screenshot (1019)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/3d8e33fc-9071-4ea9-a733-502add61abcb) ![Screenshot (1020)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/021594a6-1b7b-4064-8a24-456919180e76)
+Memproses Data DD ![Screenshot (1021)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/80b7619e-327e-4f2d-a7e5-c99319361523)
+Pemilihan modul untuk proses data![Screenshot (1023)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/85b69aa8-87b7-482e-b4f2-552ed1f9116b)
+Fitur yang terdapat di Autopsy ![Screenshot (1024)](https://github.com/WeikyNA/Autopsy-Exercise---1203210125/assets/123792245/faabe24a-930a-4499-bccc-a15d700f4836)
